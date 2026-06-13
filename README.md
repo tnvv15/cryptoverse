@@ -37,8 +37,29 @@ Users can learn about Bitcoin, Ethereum, Blockchain, Web3, Crypto Wallets, and C
 
 ## 👥 Team
 
-* Tanvi – Frontend Development & UI/UX
-* Team Member – Content, Features & API Integration
+### Tanvi
+
+Frontend Developer & UI/UX Designer
+
+Responsibilities:
+
+* Figma Design
+* React Components
+* Tailwind CSS
+* Responsive Design
+* Deployment
+
+### Taniya
+
+Feature Developer & Content Manager
+
+Responsibilities:
+
+* Cryptocurrency Content
+* Quiz System
+* CoinGecko API Integration
+* Data Management
+* Testing
 
 ## 📅 Status
 
